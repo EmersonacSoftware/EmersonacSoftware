@@ -1,11 +1,4 @@
-
-Emersonac Software, along with its games division, Emersonac Interactive, is a group which strives to create the most fun, simple games and pieces of software we can make.
-We're the authors of smash-hit games such as:
-- Scratch Space Program
-- Super Drift 2D
-
-We're currently working on Escape From Arlo's Trains. More will be released SOON!
-
+I just make stuff. That's it really.
 
 
 
